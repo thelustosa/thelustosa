@@ -1,8 +1,32 @@
+<div align="center">
+
 # Lucas Lustosa
 
-### Desenvolvedor Full Stack
+### Ciência de Dados Aplicada • Machine Learning • Engenharia de Computação • Desenvolvimento
+#### Engenheiro de Computação — UFG • Goiânia, GO
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/lustosadev/)](https://www.linkedin.com/in/lustosadev/) 
-[![Gmail Badge](https://img.shields.io/badge/-lustozera@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:lustozera@gmail.com)](mailto:lustozera@gmail.com)
+[![](https://img.shields.io/badge/LINKEDIN-LUSTOSADEV-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lustosadev) [![](https://img.shields.io/badge/GITHUB-THELUSTOSA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelustosa)
 
-Sou Desenvolvedor Full Stack e graduado em Engenharia de Computação pela Universidade Federal de Goiás. Movido por uma energia competitiva para transformar desafios e ideias complexas em soluções de impacto, vejo a tecnologia como um catalisador: uma força capaz de acelerar negócios, resolver problemas reais e, acima de tudo, capacitar pessoas.
+</div>
+
+&nbsp;
+
+## Sobre
+
+* **Atuação:** Cientista de Dados
+* **Formação:** Graduado em Engenharia de Computação — Universidade Federal de Goiás (UFG)
+* **Foco:** Desenvolvimento de IA aplicada, Processamento Digital de Imagens (PDI), Aprendizado Profundo (Deep Learning), Ciência de Dados e Engenharia de Software Full Stack
+---
+
+## Stack (principal)
+
+### Linguagens
+Python • TypeScript • JavaScript • Java • SQL • C++ • C
+
+### IA / Dados
+Computer Vision (OpenCV) • Machine Learning & Deep Learning • Pandas • NumPy • Scikit-learn • Yolo • PyTorch
+
+### Desenvolvimento Web / Engenharia
+NestJS • Node.js • React • TailwindCSS • PostgreSQL • Prisma • Docker • Git & GitHub 
+
+---
