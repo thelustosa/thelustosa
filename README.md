@@ -4,7 +4,7 @@
 
 ### Ciência de Dados • Machine Learning • Engenharia de Software • Desenvolvimento
 
-[![](https://img.shields.io/badge/LINKEDIN-LUSTOSADEV-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lustosadev) [![](https://img.shields.io/badge/GITHUB-THELUSTOSA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelustosa)
+[![](https://img.shields.io/badge/LINKEDIN-LUSTOSADEV-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lustosadev) [![](https://img.shields.io/badge/PORTFOLIO-THELUSTOSA-181717?style=for-the-badge&logo=github&logoColor=white)](https://thelustosa.github.io/portfolio/)
 
 </div>
 
