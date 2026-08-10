@@ -12,7 +12,7 @@
 
 ## Sobre
 
-* **Atuação:** Cientista de Dados
+* **Atuação:** Cientista de Dados e Embaixador Estudantil Google
 * **Formação:** Graduado em Engenharia de Computação — Universidade Federal de Goiás (UFG)
 * **Foco:** Desenvolvimento de IA aplicada, Processamento Digital de Imagens (PDI), Aprendizado Profundo (Deep Learning), Ciência de Dados e Engenharia de Software Full Stack
 ---
